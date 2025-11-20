@@ -7,7 +7,7 @@ Explore advanced topics, or stay updated with the latest trends with *The PHP Pr
 
 <a href="https://github.com/navjotsinghprince" traget="_blank">Author</a>
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](PHP PDO/The-PHP-Professional-main/LICENSE.md)
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)
 file for details.
 
 
